@@ -1,0 +1,29 @@
+.begin{
+    height: 320px;
+    width: 180px;
+    border-radius:20px;
+}
+
+    
+.box{
+    height: 350px;
+    width: 250px;
+    border: 2px solid black;
+    padding-left: 15px;
+    align-items: center;
+    background-color:rgb(131, 134, 134);
+    border-radius:20px;
+    list-style-type: none;
+}
+.nums{
+    border:0;
+    width:40px;
+    height:40px;
+    border-radius:10px;
+    box-shadow:-8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    font-size:20px;
+    color:#fff;
+    cursor:pointer;
+    margin:10px;
+}
